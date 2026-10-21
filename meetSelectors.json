@@ -1,6 +1,5 @@
 {
   "schemaVersion": 1,
-  "selectorsVersion": 5,
-  "meetSelectors": {
-    "captionsShow": { "desc": ["Show captions", "הצגת הכתוביות"] }
+  "selectorsVersion": 2,
+  "meetSelectors": {}
 }
