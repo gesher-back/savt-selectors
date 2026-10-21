@@ -1,5 +1,7 @@
 {
   "schemaVersion": 1,
-  "selectorsVersion": 2,
-  "meetSelectors": {}
+  "selectorsVersion": 3,
+  "meetSelectors": {
+    "captionsShow": { "desc": ["Show captions TEST"] }
+  }
 }
