@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "selectorsVersion": 3,
+  "selectorsVersion": 4,
   "meetSelectors": {
-    "captionsShow": { "desc": ["Show captions TEST"] }
+    "captionsShow": { "desc": ["Show captions", "הצגת הכתוביות"] }
   }
 }
